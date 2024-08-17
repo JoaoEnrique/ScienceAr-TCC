@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pirarocu
+* source:	https://sketchfab.com/3d-models/pirarocu-b2a5892c08074e7faa6c2840c77f0a26
+* author:	Felipe Borba (https://sketchfab.com/felipeborba)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pirarocu" (https://sketchfab.com/3d-models/pirarocu-b2a5892c08074e7faa6c2840c77f0a26) by Felipe Borba (https://sketchfab.com/felipeborba) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

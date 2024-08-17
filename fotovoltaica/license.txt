@@ -1,0 +1,11 @@
+Model Information:
+* title:	FOTOVOLTAICA - UFSC
+* source:	https://sketchfab.com/3d-models/fotovoltaica-ufsc-3ae4ea3c6d574be79b5a88424945a9f4
+* author:	Guilherme Francisco Zucatelli (https://sketchfab.com/gfzucatelli)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "FOTOVOLTAICA - UFSC" (https://sketchfab.com/3d-models/fotovoltaica-ufsc-3ae4ea3c6d574be79b5a88424945a9f4) by Guilherme Francisco Zucatelli (https://sketchfab.com/gfzucatelli) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
