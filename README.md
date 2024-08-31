@@ -1,3 +1,7 @@
+> [!TIP]
+> Cria QRCode com Python
+
+
 ```py
 try:
     while True:
