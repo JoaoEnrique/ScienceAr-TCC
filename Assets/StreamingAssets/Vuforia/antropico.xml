@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="aerogerador" size="1.000000 1.000000" />
+    <ImageTarget name="fotovoltaica" size="1.000000 1.000000" />
+    <ImageTarget name="usina_nuclear" size="1.000000 1.000000" />
+    <ImageTarget name="fogueira" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>

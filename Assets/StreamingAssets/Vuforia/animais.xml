@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="jacare" size="1.000000 1.000000" />
+    <ImageTarget name="capivara" size="1.000000 1.000000" />
+    <ImageTarget name="arara" size="1.000000 1.000000" />
+    <ImageTarget name="macaco" size="1.000000 1.000000" />
+    <ImageTarget name="onca_pintada" size="1.000000 1.000000" />
+    <ImageTarget name="piranhas" size="1.000000 1.000000" />
+    <ImageTarget name="pirarocu" size="1.000000 1.000000" />
+    <ImageTarget name="furao" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>

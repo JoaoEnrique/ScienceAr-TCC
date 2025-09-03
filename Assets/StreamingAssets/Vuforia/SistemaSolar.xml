@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="terra" size="1.000000 1.000000" />
+    <ImageTarget name="sistema_solar" size="1.000000 1.000000" />
+    <ImageTarget name="sol" size="1.000000 1.000000" />
+    <ImageTarget name="terra_plana" size="1.000000 1.000000" />
+    <ImageTarget name="uml_livro" size="1.000000 1.432812" />
+  </Tracking>
+</QCARConfig>

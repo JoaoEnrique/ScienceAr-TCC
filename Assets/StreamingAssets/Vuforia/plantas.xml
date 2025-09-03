@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="trigo" size="1.000000 1.000000" />
+    <ImageTarget name="ip_roxo" size="1.000000 1.000000" />
+    <ImageTarget name="jabuticabeira" size="1.000000 1.000000" />
+    <ImageTarget name="cacto" size="1.000000 1.000000" />
+    <ImageTarget name="bromelia" size="1.000000 1.000000" />
+    <ImageTarget name="vitoria_regia" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
